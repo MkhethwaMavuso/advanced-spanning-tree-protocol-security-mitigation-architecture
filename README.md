@@ -1,0 +1,2 @@
+# advanced-spanning-tree-protocol-security-mitigation-architecture
+Layer 2 Enterprise Campus Topology featuring multiple interconnected Cisco 2960 Catalyst switches (Switch0 with MAC 0090.2BC7.9AB4, Switch1 with MAC 0001.C76C.2853, Switch2, an old switch with explicit STP Priority 36864), and an unauthorized rogue switch (Bad guy configured with malicious STP Priority 0) attempting a Layer 2 topology takeover.
